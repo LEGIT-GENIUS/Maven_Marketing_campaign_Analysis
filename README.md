@@ -69,8 +69,7 @@ Some other facts about the dataset includes:
 7.	PowerBI Visualization.
 8.	PowerBI dashboard building.
 9.	Transforming data on powerBI through the use of listing to create groups for age and income.
-
-###### DATA CLEANING AND MANNIPULATION PROCESS.
+###### DATA CLEANING AND MANIPULATION PROCESS
 
 After downloading the data from: https://mavenanalytics.io/dataplayground?page=3&pageSize=10. The original data set comprises of 2,241 rows, and 28 columns. The following cleaning and manipulations were carried out to ensure that the data is readily available for further analysis:
 
