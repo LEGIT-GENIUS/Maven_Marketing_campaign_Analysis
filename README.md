@@ -58,4 +58,37 @@ Some other facts about the dataset includes:
 5.	Which products are performing best?
 6.	Which channels are underperforming?
 
-10. Married
+##### SKILLS AND CONCEPTS APPLIED IN THE COURSE OF THIS ANALYSIS:
+
+1.	Excel functions: Date, text, and Sum.
+2.	Data cleaning.
+3.	Data manipulation.
+4.	Tables and Pivot tables (for summarizing data).
+5.	Descriptive statistics.
+6.	Cell referencing.
+7.	PowerBI Visualization.
+8.	PowerBI dashboard building.
+9.	Transforming data on powerBI through the use of listing to create groups for age and income.
+
+###### DATA CLEANING AND MANNIPULATION PROCESS.
+
+After downloading the data from: https://mavenanalytics.io/dataplayground?page=3&pageSize=10. The original data set comprises of 2,241 rows, and 28 columns. The following cleaning and manipulations were carried out to ensure that the data is readily available for further analysis:
+
+* **The removal of empty cells:** 25 empty cells were found in the income per year of the consumers. They were deleted. And the reason for this is the discrepancies or irregularities that could occur in the process of providing analysis on anything that is related to the income of the consumers. This reduced the model of the data set, leaving us with 2216 rows. This means the consumer sample size has been reduced to 2216 from 2241.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
