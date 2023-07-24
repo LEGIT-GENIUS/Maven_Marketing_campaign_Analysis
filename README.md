@@ -132,5 +132,32 @@ The location is the country at which the customer made the web purchase from. th
   
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/fe847496-0c00-4b52-90dc-434557636970) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/5e1893a2-576f-4abf-a5d3-20d0d9da7f7e) 
 
-So, from the summary of different demographic factors that could be linked to and affect the usage of web purchase by the consumers. They all had significant impact on their decision to purchase using the web
+So, from the summary of different demographic factors that could be linked to and affect the usage of web purchase by the consumers. They all had significant impact on their decision to purchase using the web.
+
+**3. Which marketing campaign was the most successful?**
+
+![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/71ccb6c6-a4fe-4dd4-8949-69faa17647fa)
+
+The last marketing campaign; Response, happens to be the most successful marketing campaign, since about 332 people accepted the offer after the last campaign. On the other hand, the lease performing campaign is campaign number 2.
+
+**4. What does the average customer look like?**
+When talking about an average consumer, the emphasis here is to look at what a consumer actually represents with regards to different demographic factors available from the data.
+The profile of an average consumer is as follows: 
+* 45 years of age.
+* Married.
+* Earns $52,245.94 per year.
+* Has just 1 kid.
+
+![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/c3bc15df-591e-4ac4-8662-8df27ec2fc53) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/b76dd487-4ff8-4cc3-a042-ea5076a07928) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/b3225e38-d332-4fae-9687-dc44a76fb536) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/4492c621-c780-48ff-ae17-e390c93ff876)
+
+
+
+
+
+
+
+
+
+
+
 
