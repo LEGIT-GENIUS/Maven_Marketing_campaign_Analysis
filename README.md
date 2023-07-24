@@ -82,7 +82,7 @@ After downloading the data from: https://mavenanalytics.io/dataplayground?page=3
 
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/713b09b6-a8db-44bc-b12e-d47d7a4a66fd)
 
-* •	Four additional columns: Age (column C), Months (column L), Total amount spent on purchase (column T), and children (column J), were created using the sum formula and functions. This will help in further analysis regarding the consumers demographic details. 
+* Four additional columns: Age (column C), Months (column L), Total amount spent on purchase (column T), and children (column J), were created using the sum formula and functions. This will help in further analysis regarding the consumers demographic details. 
 
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/e6ca8cdb-c572-4094-a125-ce380e7fbd24) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/90f15d12-3745-489f-a00c-168baf5a0d9e)
 
@@ -92,8 +92,7 @@ After downloading the data from: https://mavenanalytics.io/dataplayground?page=3
 
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/3b55ffb4-329a-44d5-a8ed-586b5b0fded3) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/9af3423a-0ddf-4078-825e-ca4a001af42d)
 
-#######
-INSIGHTS AND ANSWERS TO BUSINESS QUESTIONS BASED ON THE ANALYSIS WITH THE USE OF MICROSOFT EXCEL AND POWERBI
+# INSIGHTS AND ANSWERS TO BUSINESS QUESTIONS BASED ON THE ANALYSIS WITH THE USE OF MICROSOFT EXCEL AND POWERBI
 
 
 
