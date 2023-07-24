@@ -77,10 +77,17 @@ After downloading the data from: https://mavenanalytics.io/dataplayground?page=3
 
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/dc156581-9af5-497b-900a-8cc90026ebee) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/eb5e8130-7f0d-4b80-a518-f94d4f850a60) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/0051d8bc-7239-4c0c-8cc4-17156b5b1011)
 
+* Some columns were reformatted to suit the values that is attributed to the variables. For instance, the following columns: income_per_year, and MntWines, MntFruits, MntMeatProducts, MntFishProducts, MntSweetProducts were all formatted into currency. 
 
+![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/713b09b6-a8db-44bc-b12e-d47d7a4a66fd)
 
+* •	Four additional columns: Age (column C), Months (column L), Total amount spent on purchase (column T), and children (column J), were created using the sum formula and functions. This will help in further analysis regarding the consumers demographic details. 
 
+![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/e6ca8cdb-c572-4094-a125-ce380e7fbd24) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/90f15d12-3745-489f-a00c-168baf5a0d9e)
 
+![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/303915fb-dbb4-418d-b3bf-a04c4343a179) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/8a5317ef-8799-4ebf-a5b2-60b7fc1bd0ce)
+
+![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/ac9a568a-2035-45f9-923f-070644f9b128)
 
 
 
