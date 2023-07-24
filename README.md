@@ -124,9 +124,3 @@ The location is the country at which the customer made the web purchase from. th
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/fe847496-0c00-4b52-90dc-434557636970) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/5e1893a2-576f-4abf-a5d3-20d0d9da7f7e)
 So, from the summary of different demographic factors that could be linked to and affect the usage of web purchase by the consumers. They all had significant impact on their decision to purchase using the web
 
-
-
-
-
-
-
