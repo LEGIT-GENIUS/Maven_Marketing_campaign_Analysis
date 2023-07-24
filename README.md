@@ -10,3 +10,5 @@ The dataset comprises of the outcome of a marketing campaign involving 2241 cust
 ### About the data
 
 The dataset is a CSV file that contains one table, having 2,241 rows and 28 columns. Can be accessed through the link: https://mavenanalytics.io/data-playground?page=3&pageSize=10.
+Some other facts about the dataset includes:
+1.	The marketing campaign took place in about eight (8) different countries, namely: Australia, Spain, USA, Canada, Germany, India, Mexico, Saudi Arabia.
