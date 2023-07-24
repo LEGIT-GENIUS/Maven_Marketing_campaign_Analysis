@@ -163,7 +163,8 @@ The underperforming channels are; deals purchase and catalog purchase. Both have
 
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/1e194356-3a09-4cdf-a62f-9b3e505a8d2c) 
 
-![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/dd4858b4-b0f5-4238-bf41-b480b9ce0016)
+![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/dd4858b4-b0f5-4238-bf41-b480b9ce0016) 
+
 You can interact with the dashboard via this link: https://app.powerbi.com/groups/me/reports/64d30dd1-f360-44fc-9292-84ca8bd51595/ReportSection?experience=power-bi
 
 #### RECOMMENDATIONS!!!!!!!!
