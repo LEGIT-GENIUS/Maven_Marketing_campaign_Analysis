@@ -153,6 +153,9 @@ The profile of an average consumer is as follows:
 **5.	Which products are performing best?**
 The best performing product is wine with the total consumer purchase valued at: $675,790.00, followed by meat with a consumer purchase value of $369,976. The significantly least performing products are; fruits products and sweet product with a purchase valuation of; $58,405 and $59,885.
 
+![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/b64a2009-3926-45b3-88cb-f83507083a1d)
+
+
 **6.	Which channels are underperforming?**
 
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/9a236f66-a226-4007-9d63-a61ba538ab4b)
