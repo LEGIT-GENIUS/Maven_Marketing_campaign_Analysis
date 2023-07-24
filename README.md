@@ -102,23 +102,27 @@ There were outliers within the data set found in the income per year column of t
 The primary objective of a marketing campaign is to increase the reach and pace at which a firm is able to gain access to their current consumers and also prospective ones, with the aim persuading the target audience to make positive response with regards to their decision; this could be anything from buying a product to signing up for a service. This is expected boost the sales, revenue, and profit in the long run. Talking about the web purchase, there are numerous factors that can be considered as significant to it, but according to this data, there are basically five factors related to the consumers that can ideally influence the number of web purchase: Age, Education, Location, Marital status, Income per year. This is not to say that at the initial stage that these outlined factors will affect the number of web purchase, the data will speak for itself in subsequent paragraphs. Given that 2216 customers that were accounted for in the course of this analysis. The sum of web purchase made by them is 9046 with a valuation of.
 
 * **Age:** Different age groups (4), were created through listing on powerBI. Adolescence (Age 0 to 19), Adulthood (Age 20 to 44), Middle Aged (Age 45 to 64), Senior citizens (Age 65 and above). This was done mainly to enable us ascertain the extent at which the age of consumers affects the use of web purchase.
+  
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/dce06470-f0bf-4a84-8745-42ef14bfadf3) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/68ab53ef-e6c5-433d-b345-5ed4b8afba08)
 
 For the pie chart above, based on the age factor, the number of web purchase by each age groups are; adolescence 0.2%, adulthood 46.78%, middle aged 46.81%, and senior citizens 6.21%. looking at these figures, it is crystal clear that the age factor has significantly affects the number of webs purchased that was made within the stipulated periods. Consumers within the adulthood and the middle-aged group made more purchase through the web.
 
 * **Income Level:** the income per year was divided into 3 different groups through listing on powerBI. Low-income earners (< $25,000), Medium income earners (> $25,000 < $100,000), High Income earners (above $100,000). This Was done to enable us group the consumers into different income levels or group while trying to compare the significance of income level on web purchase.
+  
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/de3a3101-d14a-44c1-9bd2-fb49c69ccd5d) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/bdfe319e-516b-450b-9648-2ae41364656e)
 
 After creating the doughnut chart to compare the income level with the web purchase, the chart illustrates that: when considering the income factor, 93.9% of the web purchase were mad by Medium-income earners, 5.45% by low-income earners, while 0.65% were made by high income earners. This indicates that the level of income matters as well in terms of web purchase.
 
-* **Education:** 
+* **Education:**
+   
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/1d469591-7308-4693-b90c-c749a96ce067) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/b1c3ea66-11bc-4fdc-ac4c-369e91285239)
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/a0cd6cbb-4b7f-49e8-b17e-603c0d5092a4)
 
  there are apparently 5 different level of education indicated by the consumers. For a proper analysis to be done with regards to this. A pivot table was created in excel to provide a summary of the sum of web purchase made by consumers within the different educational levels, while the summary was created using the clustered bar chart visualization tool on powerBI.
 The clustered bar chart and the pivot table reveals that level of education also has significant impact on the number of web purchases.  Of the 5 different level of education, 50.77% of them were made by consumers at the graduation level, 16.28% were made by master’s holders, while 23.49% of them were made by PhD holders among many others. Moving the next factor to consider.
 
-* **Location:** 
+* **Location:**
+  
  ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/8c14d3c6-3e03-4038-ab08-28073f007c85) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/4b246c50-17df-446b-98fb-ec8fc71b82ce)
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/d8d518f8-dd4e-486e-adcb-9e927a811d68)
 
