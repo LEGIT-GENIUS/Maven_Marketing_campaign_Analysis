@@ -92,7 +92,8 @@ After downloading the data from: https://mavenanalytics.io/dataplayground?page=3
 
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/3b55ffb4-329a-44d5-a8ed-586b5b0fded3) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/9af3423a-0ddf-4078-825e-ca4a001af42d)
 
-####### INSIGHTS AND ANSWERS TO BUSINESS QUESTIONS BASED ON THE ANALYSIS WITH THE USE OF MICROSOFT EXCEL AND POWERBI
+#######
+INSIGHTS AND ANSWERS TO BUSINESS QUESTIONS BASED ON THE ANALYSIS WITH THE USE OF MICROSOFT EXCEL AND POWERBI
 
 
 
