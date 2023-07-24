@@ -12,3 +12,10 @@ The dataset comprises of the outcome of a marketing campaign involving 2241 cust
 The dataset is a CSV file that contains one table, having 2,241 rows and 28 columns. Can be accessed through the link: https://mavenanalytics.io/data-playground?page=3&pageSize=10.
 Some other facts about the dataset includes:
 * The marketing campaign took place in about eight (8) different countries, namely: Australia, Spain, USA, Canada, Germany, India, Mexico, Saudi Arabia.
+* There were 6 different set of marketing campaigns with a rating of customers’ acceptance after acceptance, namely:
+1. AcceptedCmp1 (the first marketing campaign).
+2.  AcceptedCmp2 (the second marketing campaign).
+3. AcceptedCmp3 (the third marketing campaign).
+4. AcceptedCmp4 (the fourth marketing campaign).
+5. AcceptedCmp5 (the fifth marketing campaign).
+6. Response (the last marketing campaign).
