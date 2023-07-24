@@ -103,24 +103,30 @@ The primary objective of a marketing campaign is to increase the reach and pace 
 
 * **Age:** Different age groups (4), were created through listing on powerBI. Adolescence (Age 0 to 19), Adulthood (Age 20 to 44), Middle Aged (Age 45 to 64), Senior citizens (Age 65 and above). This was done mainly to enable us ascertain the extent at which the age of consumers affects the use of web purchase.
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/dce06470-f0bf-4a84-8745-42ef14bfadf3) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/68ab53ef-e6c5-433d-b345-5ed4b8afba08)
+
 For the pie chart above, based on the age factor, the number of web purchase by each age groups are; adolescence 0.2%, adulthood 46.78%, middle aged 46.81%, and senior citizens 6.21%. looking at these figures, it is crystal clear that the age factor has significantly affects the number of webs purchased that was made within the stipulated periods. Consumers within the adulthood and the middle-aged group made more purchase through the web.
 
 * **Income Level:** the income per year was divided into 3 different groups through listing on powerBI. Low-income earners (< $25,000), Medium income earners (> $25,000 < $100,000), High Income earners (above $100,000). This Was done to enable us group the consumers into different income levels or group while trying to compare the significance of income level on web purchase.
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/de3a3101-d14a-44c1-9bd2-fb49c69ccd5d) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/bdfe319e-516b-450b-9648-2ae41364656e)
+
 After creating the doughnut chart to compare the income level with the web purchase, the chart illustrates that: when considering the income factor, 93.9% of the web purchase were mad by Medium-income earners, 5.45% by low-income earners, while 0.65% were made by high income earners. This indicates that the level of income matters as well in terms of web purchase.
 
 * **Education:** 
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/1d469591-7308-4693-b90c-c749a96ce067) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/b1c3ea66-11bc-4fdc-ac4c-369e91285239)
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/a0cd6cbb-4b7f-49e8-b17e-603c0d5092a4)
+
  there are apparently 5 different level of education indicated by the consumers. For a proper analysis to be done with regards to this. A pivot table was created in excel to provide a summary of the sum of web purchase made by consumers within the different educational levels, while the summary was created using the clustered bar chart visualization tool on powerBI.
 The clustered bar chart and the pivot table reveals that level of education also has significant impact on the number of web purchases.  Of the 5 different level of education, 50.77% of them were made by consumers at the graduation level, 16.28% were made by master’s holders, while 23.49% of them were made by PhD holders among many others. Moving the next factor to consider.
 
 * **Location:** 
  ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/8c14d3c6-3e03-4038-ab08-28073f007c85) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/4b246c50-17df-446b-98fb-ec8fc71b82ce)
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/d8d518f8-dd4e-486e-adcb-9e927a811d68)
+
 The location is the country at which the customer made the web purchase from. these 8 countries; 4367 were from Spain which accounts for 48.28%, while 1397 were from Saudi Arabia which accounts for 15.43%, and 1142 were from Canada which accounts for 12.61%. It shows that the location of the customer affects their usage of web purchase platform. These were the top 3 countries with the most web purchases. These were ascertained by summarizing the data on the Microsoft excel pivot table, and then representing the visuals on the map chart via powerBI.
 
 * **Marital Status:** the marital status is also a very significant factor in this context. From the 8 different marital status, about 64% of the web purchase were made by people who are either together (25.99%) or married (38.62%). While divorced couple made a web purchase of 11.05% and single made 20.05%.
-![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/fe847496-0c00-4b52-90dc-434557636970) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/5e1893a2-576f-4abf-a5d3-20d0d9da7f7e)
+  
+![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/fe847496-0c00-4b52-90dc-434557636970) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/5e1893a2-576f-4abf-a5d3-20d0d9da7f7e) 
+
 So, from the summary of different demographic factors that could be linked to and affect the usage of web purchase by the consumers. They all had significant impact on their decision to purchase using the web
 
