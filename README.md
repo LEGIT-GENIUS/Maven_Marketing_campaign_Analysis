@@ -118,7 +118,7 @@ After creating the doughnut chart to compare the income level with the web purch
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/1d469591-7308-4693-b90c-c749a96ce067) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/b1c3ea66-11bc-4fdc-ac4c-369e91285239)
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/a0cd6cbb-4b7f-49e8-b17e-603c0d5092a4)
 
- there are apparently 5 different level of education indicated by the consumers. For a proper analysis to be done with regards to this. A pivot table was created in excel to provide a summary of the sum of web purchase made by consumers within the different educational levels, while the summary was created using the clustered bar chart visualization tool on powerBI.
+ There are apparently 5 different level of education indicated by the consumers. For a proper analysis to be done with regards to this. A pivot table was created in excel to provide a summary of the sum of web purchase made by consumers within the different educational levels, while the summary was created using the clustered bar chart visualization tool on powerBI.
 The clustered bar chart and the pivot table reveals that level of education also has significant impact on the number of web purchases.  Of the 5 different level of education, 50.77% of them were made by consumers at the graduation level, 16.28% were made by master’s holders, while 23.49% of them were made by PhD holders among many others. Moving the next factor to consider.
 
 * **Location:**
@@ -150,7 +150,7 @@ The profile of an average consumer is as follows:
 
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/c3bc15df-591e-4ac4-8662-8df27ec2fc53) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/b76dd487-4ff8-4cc3-a042-ea5076a07928) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/b3225e38-d332-4fae-9687-dc44a76fb536) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/4492c621-c780-48ff-ae17-e390c93ff876)
 
-** 5.	Which products are performing best?**
+**5.	Which products are performing best?**
 The best performing product is wine with the total consumer purchase valued at: $675,790.00, followed by meat with a consumer purchase value of $369,976. The significantly least performing products are; fruits products and sweet product with a purchase valuation of; $58,405 and $59,885.
 
 **6.	Which channels are underperforming?**
