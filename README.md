@@ -9,4 +9,4 @@ The dataset comprises of the outcome of a marketing campaign involving 2241 cust
 
 ### About the data
 
-The dataset is a CSV file that contains one table, consisting of 2,241 rows and 28 columns. Can be access through the link: https://mavenanalytics.io/data-playground?page=3&pageSize=10.
+The dataset is a CSV file that contains one table, having 2,241 rows and 28 columns. Can be accessed through the link: https://mavenanalytics.io/data-playground?page=3&pageSize=10.
