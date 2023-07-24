@@ -87,7 +87,8 @@ After downloading the data from: https://mavenanalytics.io/dataplayground?page=3
 
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/303915fb-dbb4-418d-b3bf-a04c4343a179) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/8a5317ef-8799-4ebf-a5b2-60b7fc1bd0ce)
 
-![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/ac9a568a-2035-45f9-923f-070644f9b128)
+![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/ac9a568a-2035-45f9-923f-070644f9b128) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/818eda7a-59ec-4483-9569-0b8708a09fb9)
+
 
 
 
