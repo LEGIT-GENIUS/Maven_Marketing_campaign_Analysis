@@ -150,14 +150,23 @@ The profile of an average consumer is as follows:
 
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/c3bc15df-591e-4ac4-8662-8df27ec2fc53) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/b76dd487-4ff8-4cc3-a042-ea5076a07928) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/b3225e38-d332-4fae-9687-dc44a76fb536) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/4492c621-c780-48ff-ae17-e390c93ff876)
 
+** 5.	Which products are performing best?**
+The best performing product is wine with the total consumer purchase valued at: $675,790.00, followed by meat with a consumer purchase value of $369,976. The significantly least performing products are; fruits products and sweet product with a purchase valuation of; $58,405 and $59,885.
 
+**6.	Which channels are underperforming?**
 
+![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/9a236f66-a226-4007-9d63-a61ba538ab4b)
 
+The underperforming channels are; deals purchase and catalog purchase. Both have 5,145 and 5,917 as the number of times they were used to make purchase within the store and they are within the same range.
 
+### RECOMMENDATIONS!!!!!!!!
+* The region of Spain looks like a good market for the maven to capitalize on. Given that more than 50% of its customer lives in Spain. However, it is advisable for additional research to be carried out in the region of Spain in order to ascertain the various factors that is responsible for the high market concentration in Spain. Through this, the methodology of the various operations of the branches of maven in Spain can be adopted in other region in order to drive consumers interest in other locations as well.
 
+* The last marketing campaign: response, should be greatly considered as replacement for other forms of marketing campaigns especially campaign number 2 (the least effective marketing campaign).
 
+* Deals purchase are purchase that are made available to the consumers at a discount, and it is ideal to expect that it should be the most adopted channel of purchase. However, it appears to be among the least effective channels. So, it is advisable for maven to take a pause and observe the nature of the discount given to the consumers, probably it looks unattractive, but we lack enough data at our disposal to ascertain that fact. 
 
+* The store purchase is significantly high when compared to other forms of purchase. This indicates that most consumers value in-person person demand and purchase. This is a very good indication that in person market research can be easily conducted regarding any subject matter that will boost the operation of the firm. 
 
-
-
+![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/b8fb5c50-9160-49b9-af2f-8289371aee19)
 
