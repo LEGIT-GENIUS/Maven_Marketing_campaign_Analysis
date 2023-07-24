@@ -10,6 +10,7 @@ The dataset comprises of the outcome of a marketing campaign involving 2241 cust
 ### About the data
 
 The dataset is a CSV file that contains one table, having 2,241 rows and 28 columns. Can be accessed through the link: https://mavenanalytics.io/data-playground?page=3&pageSize=10.
+
 Some other facts about the dataset includes:
 * The marketing campaign took place in about eight (8) different countries, namely: Australia, Spain, USA, Canada, Germany, India, Mexico, Saudi Arabia.
   
@@ -30,3 +31,20 @@ Some other facts about the dataset includes:
 6. Gold products (represented as MntGoldProds).
 
 * The information received on every customer with regards to their purchases includes: •	Date of birth.	Marital status.	Education level, Annual income, Number of children at home (kids and Teens).
+
+* There were four means through which consumer could make purchase within the store;
+  
+1. Deals purchase (NumDealsPurchases)
+2. Web purchase (NumWebPurchases)
+3. Store purchase (NumStorePurchases)
+4. Catalogue purchase (NumCatalogPurchases)
+
+* With regards to the marital status of consumers, about 8 of them were identified: 
+1. Absurd
+2. YOLO
+3. Alone
+4. Widow
+5. Divorced
+6. Single
+7. Together
+8. Married
