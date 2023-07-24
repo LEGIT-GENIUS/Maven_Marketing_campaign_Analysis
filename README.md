@@ -75,7 +75,9 @@ After downloading the data from: https://mavenanalytics.io/dataplayground?page=3
 
 * **The removal of empty cells:** 25 empty cells were found in the income per year of the consumers. They were deleted. And the reason for this is the discrepancies or irregularities that could occur in the process of providing analysis on anything that is related to the income of the consumers. This reduced the model of the data set, leaving us with 2216 rows. This means the consumer sample size has been reduced to 2216 from 2241.
 
-![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/dc156581-9af5-497b-900a-8cc90026ebee)
+![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/dc156581-9af5-497b-900a-8cc90026ebee) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/eb5e8130-7f0d-4b80-a518-f94d4f850a60) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/0051d8bc-7239-4c0c-8cc4-17156b5b1011)
+
+
 
 
 
