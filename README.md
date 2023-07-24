@@ -58,7 +58,7 @@ Some other facts about the dataset includes:
 5.	Which products are performing best?
 6.	Which channels are underperforming?
 
-##### SKILLS AND CONCEPTS APPLIED IN THE COURSE OF THIS ANALYSIS:
+##### SKILLS AND CONCEPTS APPLIED IN THE COURSE OF THIS ANALYSIS.
 
 1.	Excel functions: Date, text, and Sum.
 2.	Data cleaning.
