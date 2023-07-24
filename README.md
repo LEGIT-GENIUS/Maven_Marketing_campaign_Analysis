@@ -28,3 +28,5 @@ Some other facts about the dataset includes:
 4. Fish products (represented as MntMeatProducts).
 5. Sweet products (represented as MntSweetProducts).
 6. Gold products (represented as MntGoldProds).
+
+* The information received on every customer with regards to their purchases includes: •	Date of birth.	Marital status.	Education level, Annual income, Number of children at home (kids and Teens).
