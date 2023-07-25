@@ -4,7 +4,7 @@
 
 # INTRODUCTION.
 
-The dataset comprises of the outcome of a marketing campaign Conducted by Maven: a store that operates online and offline. It involves 2241 customers and runs from July 2012 to June 2014. It includes: consumers profile, product preferences, campaign acceptance, and other demographic attributes peculiar to the consumers. The goal of this project is to unravel valuable insights from the available data with regards to the demographics distributions and profile of the consumers, the various products, the channels of purchase, and the rate of acceptance of each campaign. This is expected to enhance future marketing scheme that will be adopted in the future. In the end, suitable recommendations that will help to boost the success of future marketing campaigns will also be provided.
+The dataset comprises of the outcome of a marketing campaign Conducted by Maven: a store that operates online and offline. It involves 2241 customers and runs from July 2012 to June 2014. It includes: consumers profile, product preferences, campaign acceptance, and other demographic attributes peculiar to the consumers. The goal of this project is to unravel valuable insights from the available data with regards to the demographics distributions and profile of the consumers, the various products, the channels of purchase, and the rate of acceptance of each campaign. This is expected to enhance future marketing campaigns for maximum delivery. In the end, suitable recommendations that will help to boost the success of future marketing campaigns will also be provided.
 
 # ABOUT THE DATA
 
