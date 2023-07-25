@@ -137,7 +137,7 @@ So, from the summary of different demographic factors that could be linked to an
 
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/71ccb6c6-a4fe-4dd4-8949-69faa17647fa)
 
-The last marketing campaign; Response, happens to be the most successful marketing campaign, since about 332 people accepted the offer after the last campaign. On the other hand, the lease performing campaign is campaign number 2.
+The last marketing campaign; Response, happens to be the most successful marketing campaign, since about 332 people accepted the offer after the last campaign. On the other hand, the least performing campaign is campaign number 2.
 
 **4. What does the average customer look like?**
 When talking about an average consumer, the emphasis here is to look at what a consumer actually represents with regards to different demographic factors available from the data.
