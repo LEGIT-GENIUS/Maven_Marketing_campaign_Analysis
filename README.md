@@ -2,11 +2,11 @@
 
 <img src="https://www.sender.net/wp-content/uploads/2022/06/b043-What-Is-Retail-Marketing-Types-Strategies-small-1-1024x658.webp">
 
-## INTRODUCTION.
+# INTRODUCTION.
 
 The dataset comprises of the outcome of a marketing campaign involving 2241 customers during Maven Marketing from July 2012 to June 2014. It includes: consumers profile, product preferences, campaign acceptance, and other demographic attributes peculiar to the consumers. The goal of this project is to unravel valuable insights from the available data with regards to the demographics distributions and profile of the consumers, the various products, the channels of purchase, and the rate of acceptance of each campaign. This is expected to enhance future marketing scheme that will be adopted in the future. In the end, suitable recommendations that will help to boost the success of future marketing campaigns will also be provided.
 
-### ABOUT THE DATA
+# ABOUT THE DATA
 
 The dataset is a CSV excel file format that contains one table, having 2,241 rows and 28 columns. Can be accessed through the link: https://mavenanalytics.io/data-playground?page=3&pageSize=10.
 
