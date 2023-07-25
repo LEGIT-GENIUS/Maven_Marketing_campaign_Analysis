@@ -9,12 +9,12 @@ The dataset comprises of the outcome of a marketing campaign involving 2241 cust
 
 ### ABOUT THE DATA
 
-The dataset is a CSV file that contains one table, having 2,241 rows and 28 columns. Can be accessed through the link: https://mavenanalytics.io/data-playground?page=3&pageSize=10.
+The dataset is a CSV excel file format that contains one table, having 2,241 rows and 28 columns. Can be accessed through the link: https://mavenanalytics.io/data-playground?page=3&pageSize=10.
 
 Some other facts about the dataset includes:
 * The marketing campaign took place in about eight (8) different countries, namely: Australia, Spain, USA, Canada, Germany, India, Mexico, Saudi Arabia.
   
-* There were 6 different set of marketing campaigns with a rating of customers’ acceptance after acceptance, namely:
+* There were 6 different set of marketing campaigns with a rating of customers’ acceptance, namely:
 1. AcceptedCmp1 (the first marketing campaign).
 2.  AcceptedCmp2 (the second marketing campaign).
 3. AcceptedCmp3 (the third marketing campaign).
@@ -30,9 +30,9 @@ Some other facts about the dataset includes:
 5. Sweet products (represented as MntSweetProducts).
 6. Gold products (represented as MntGoldProds).
 
-* The information received on every customer with regards to their purchases includes: •	Date of birth.	Marital status.	Education level, Annual income, Number of children at home (kids and Teens).
+* The information received on every customer with regards to their purchases includes: Date of birth,	Marital status,	Education level, Annual income, Number of children at home (kids and Teens).
 
-* There were four means through which consumer could make purchase within the store;
+* There were four means through which consumer could make purchase from the store;
   
 1. Deals purchase (NumDealsPurchases)
 2. Web purchase (NumWebPurchases)
