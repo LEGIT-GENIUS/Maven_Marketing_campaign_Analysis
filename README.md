@@ -176,6 +176,6 @@ You can interact with the dashboard via this link: https://app.powerbi.com/group
 
 * Deals purchase are purchase that are made available to the consumers at a discount, and it is ideal to expect that it should be the most adopted channel of purchase. However, it appears to be among the least effective channels. So, it is advisable for maven to take a pause and observe the nature of the discount given to the consumers, probably it looks unattractive, but we lack enough data at our disposal to ascertain that fact. 
 
-* The store purchase is significantly high when compared to other forms of purchase. This indicates that most consumers value in-person person demand and purchase. This is a very good indication that in person market research can be easily conducted regarding any subject matter that will boost the operation of the firm.
+* The store purchase is significantly high when compared to other forms of purchase. This indicates that most consumers value in-person demand and purchase. This is a very good indication that in person market research can be easily conducted regarding any subject matter that will boost the operation of the firm.
 
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/b8fb5c50-9160-49b9-af2f-8289371aee19)
