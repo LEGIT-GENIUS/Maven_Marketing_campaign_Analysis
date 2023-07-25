@@ -48,7 +48,7 @@ Some other facts about the dataset includes:
 7. Together
 8. Married
 
-#### RECOMMENDED ANALYSIS AS REQUIRED BY THE BUSINESS.
+# RECOMMENDED ANALYSIS AS REQUIRED BY THE BUSINESS.
 
 1.	Are there any null values or outliers? How will you handle them?
 2.	What factors are significantly related to the number of web purchases?
@@ -57,7 +57,7 @@ Some other facts about the dataset includes:
 5.	Which products are performing best?
 6.	Which channels are underperforming?
 
-##### SKILLS AND CONCEPTS APPLIED IN THE COURSE OF THIS ANALYSIS.
+# SKILLS AND CONCEPTS APPLIED IN THE COURSE OF THIS ANALYSIS.
 
 1.	Excel functions: Date, text, and Sum.
 2.	Data cleaning.
@@ -91,7 +91,7 @@ After downloading the data from: https://mavenanalytics.io/dataplayground?page=3
 
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/3b55ffb4-329a-44d5-a8ed-586b5b0fded3) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/9af3423a-0ddf-4078-825e-ca4a001af42d)
 
-## INSIGHTS AND ANSWERS TO BUSINESS QUESTIONS BASED ON THE ANALYSIS WITH THE USE OF MICROSOFT EXCEL AND POWERBI
+# INSIGHTS AND ANSWERS TO BUSINESS QUESTIONS BASED ON THE ANALYSIS WITH THE USE OF MICROSOFT EXCEL AND POWERBI
 
 **1. Are there any null values or outliers? How will you handle them?**
 
@@ -161,7 +161,7 @@ The best performing product is wine with the total consumer purchase valued at: 
 
 The underperforming channels are; deals purchase and catalog purchase. Both have 5,145 and 5,917 as the number of times they were used to make purchase within the store and they are within the same range.
 
-### THE DASHBOARD
+# THE DASHBOARD
 
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/1e194356-3a09-4cdf-a62f-9b3e505a8d2c) 
 
@@ -169,7 +169,7 @@ The underperforming channels are; deals purchase and catalog purchase. Both have
 
 You can interact with the dashboard via this link: https://app.powerbi.com/groups/me/reports/64d30dd1-f360-44fc-9292-84ca8bd51595/ReportSection?experience=power-bi
 
-#### RECOMMENDATIONS!!!!!!!!
+# RECOMMENDATIONS!!!!!!!!
 * The region of Spain looks like a good market for the maven to capitalize on. Given that more than 50% of its customer lives in Spain. However, it is advisable for additional research to be carried out in the region of Spain in order to ascertain the various factors that is responsible for the high market concentration in Spain. Through this, the methodology of the various operations of the branches of maven in Spain can be adopted in other region in order to drive consumers interest in other locations as well.
 
 * The last marketing campaign: response, should be greatly considered as replacement for other forms of marketing campaigns especially campaign number 2 (the least effective marketing campaign).
