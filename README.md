@@ -104,7 +104,7 @@ The primary objective of a marketing campaign is to increase the reach and pace 
   
 ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/dce06470-f0bf-4a84-8745-42ef14bfadf3) ![image](https://github.com/LEGIT-GENIUS/Maven_Marketing_campaign_Analysis/assets/139655319/68ab53ef-e6c5-433d-b345-5ed4b8afba08)
 
-For the pie chart above, based on the age factor, the number of web purchase by each age groups are; adolescence 0.2%, adulthood 46.78%, middle aged 46.81%, and senior citizens 6.21%. looking at these figures, it is crystal clear that the age factor has significantly affects the number of webs purchased that was made within the stipulated periods. Consumers within the adulthood and the middle-aged group made more purchase through the web.
+For the pie chart above, based on the age factor, the number of web purchase by each age groups are; adolescence 0.2%, adulthood 46.78%, middle aged 46.81%, and senior citizens 6.21%. looking at these figures, it is crystal clear that the age factor has significantly affected the number of web purchased that was made within the stipulated periods. Consumers within the adulthood and the middle-aged group made more purchase through the web.
 
 * **Income Level:** the income per year was divided into 3 different groups through listing on powerBI. Low-income earners (< $25,000), Medium income earners (> $25,000 < $100,000), High Income earners (above $100,000). This Was done to enable us group the consumers into different income levels or group while trying to compare the significance of income level on web purchase.
   
